@@ -1,2 +1,2 @@
-# asteroid-landing-guidance-smc
-MATLAB implementation of a thrust-constrained, fuel-aware sliding-mode guidance law for precision soft landing on asteroids, extending instantaneously optimal control formulations with realistic actuator limits.
+# AsteroidLanding-SMCIO
+This repo contains all code files for running sliding mode controls based on instantaneous optimization for smooth landing on an asteroid.
