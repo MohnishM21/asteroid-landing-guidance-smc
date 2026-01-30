@@ -74,13 +74,13 @@ The final guidance strategy is **physically realizable, fuel-efficient, and robu
 
 ---
 
-## Repository Structure
-├── main.m # Simulation entry point with thrust-constrained guidance
-├── Optimizer.m # Non-convex instantaneous optimization under thrust limits
-├── SlidingVariable.m # Sliding surface formulation
-├── HeadingErrorDynamics.m # Thrust direction and heading error dynamics
-├── VelocityProfile.m # Fuel-aware reference velocity design
-├── GetGravity.m # Low-gravity asteroid environment model
-├── utilities.m # Shared mathematical utilities
-├── plots.m # Trajectory, control, and fuel analysis
-└── README.md # Project documentation
+## Repository Structure```
+├── main.m # Simulation entry point with thrust-constrained guidance```
+├── Optimizer.m # Non-convex instantaneous optimization under thrust limits```
+├── SlidingVariable.m # Sliding surface formulation```
+├── HeadingErrorDynamics.m # Thrust direction and heading error dynamics```
+├── VelocityProfile.m # Fuel-aware reference velocity design```
+├── GetGravity.m # Low-gravity asteroid environment model```
+├── utilities.m # Shared mathematical utilities```
+├── plots.m # Trajectory, control, and fuel analysis```
+└── README.md # Project documentation```
